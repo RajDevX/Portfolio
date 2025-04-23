@@ -10,7 +10,7 @@ Static website made with HTML, CSS, JS and Bootstrap
 - [Customization](#customization)
 
 ## Demo
-[Demo](https://rajdevx.github.io/Portfolio/#page-2)
+[Demo](https://headless.wuaze.com/personal-portfolio-main/)
 
 
 ## Installation
