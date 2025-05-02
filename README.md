@@ -10,7 +10,7 @@ Static website made with HTML, CSS, JS and Bootstrap
 - [Customization](#customization)
 
 ## Demo
-[Demo](https://headless.wuaze.com/personal-portfolio-main/)
+[Demo](http://headless.free.nf/personal-portfolio-main/)
 
 
 ## Installation
